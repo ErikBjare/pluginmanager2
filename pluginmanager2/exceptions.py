@@ -1,0 +1,3 @@
+
+class PluginException(Exception):
+    pass
