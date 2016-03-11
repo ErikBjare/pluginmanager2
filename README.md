@@ -16,3 +16,7 @@ This project was started since I desired a general solution to creating pluginma
 
  - [ActivityWatch](https://github.com/ErikBjare/activitywatch)
  - [Homebrain](https://github.com/Homebrain/Homebrain/) 
+
+## Dependencies
+No external dependencies. It's all pure Python, yay!
+
